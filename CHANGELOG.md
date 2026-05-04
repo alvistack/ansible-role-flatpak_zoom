@@ -1,4 +1,4 @@
-# Ansible Role for Zoom
+# Ansible Role for Zoom with Flatpak
 
 ## 13.6.0 - TBC
 
