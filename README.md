@@ -1,13 +1,13 @@
-# Ansible Role for Zoom
+# Ansible Role for Zoom with Flatpak
 
 <a href="https://alvistack.com" title="AlviStack" target="_blank"><img src="/alvistack.svg" height="75" alt="AlviStack"></a>
 
-[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-zoom/master)](https://gitlab.com/alvistack/ansible-role-zoom/-/pipelines)
-[![GitHub tag](https://img.shields.io/github/tag/alvistack/ansible-role-zoom.svg)](https://github.com/alvistack/ansible-role-zoom/tags)
-[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-zoom.svg)](https://github.com/alvistack/ansible-role-zoom/blob/master/LICENSE)
-[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.zoom-blue.svg)](https://galaxy.ansible.com/alvistack/zoom)
+[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-flatpak_zoom/master)](https://gitlab.com/alvistack/ansible-role-flatpak_zoom/-/pipelines)
+[![GitHub tag](https://img.shields.io/github/tag/alvistack/ansible-role-flatpak_zoom.svg)](https://github.com/alvistack/ansible-role-flatpak_zoom/tags)
+[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-flatpak_zoom.svg)](https://github.com/alvistack/ansible-role-flatpak_zoom/blob/master/LICENSE)
+[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.flatpak_zoom-blue.svg)](https://galaxy.ansible.com/alvistack/flatpak_zoom)
 
-Ansible Role for Zoom Installation.
+Ansible Role for Zoom with Flatpak.
 
 ## Requirements
 
